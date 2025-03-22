@@ -5,5 +5,8 @@ from snowflake.snowpark.functions import col , when_matched
 
 # Write directly to the app
 st.title('My Parents New Healthy Diner')
-st.write("Breakfast Menu")
+st.title("Breakfast Menu")
 st.text('Breakfast Menu')
+st.text('Omega 3 and Blueberry Oatmeal')
+st.text('Kale, Spinach & Rocket Smoothie')
+st.text('Hard-Boiled Free-Range Egg')
